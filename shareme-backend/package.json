@@ -25,5 +25,8 @@
     "react-dom": "^17.0",
     "styled-components": "^5.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/uuid": "^8.3.3",
+    "uuid": "^8.3.2"
+  }
 }
